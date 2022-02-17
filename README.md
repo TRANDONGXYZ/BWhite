@@ -1,1 +1,5 @@
-# Blog-V2
+# Blog version 2
+
+This is an improved version of Blog version 1.
+
+![image](https://user-images.githubusercontent.com/75673452/154409479-2b9843b0-1dfc-4880-94d1-4e1526020afa.png)
